@@ -11,7 +11,7 @@
   "author": "CelestialCrafter",
   "license": "MIT",
   "dependencies": {
-    "ini": "^1.3.5",
+    "ini": "^1.3.6",
     "prompt": "^1.0.0",
     "prompts": "^2.3.2"
   }
